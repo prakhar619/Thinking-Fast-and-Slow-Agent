@@ -28,4 +28,15 @@
    git clone https://github.com/your-username/thinking-fast-and-slow-agent.git
    cd thinking-fast-and-slow-agent
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   ``` 
+
+2. Create a .env file 
+   ``` 
+   OPENAI_API_KEY=sk-proj-YOUR_KEY
+   ``` 
+
+3. Run the file 
+   ``` 
+   python main.py 
+   ```
